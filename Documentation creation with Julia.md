@@ -79,6 +79,7 @@ Documentation for MyFirstDoc.jl
 MyFirstDoc
 MyFirstDoc.greet()
 ```
+
 ```
 
 - Finally we generate the documentation from the terminal in `MyFirstDoc/docs` directory:
