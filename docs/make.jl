@@ -10,6 +10,10 @@ makedocs(
     "other.md"]
 )
 
+deploydocs(
+    repo = "github.com/lmaillere/MySecDoc.jl.git",
+)
+
 # Documenter can also automatically deploy documentation to gh-pages.
 # See "Hosting Documentation" and deploydocs() in the Documenter manual
 # for more information.
