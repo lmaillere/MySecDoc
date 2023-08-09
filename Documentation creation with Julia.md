@@ -70,7 +70,7 @@ Project.toml
 
 the `make.jl` file should be OK at this step (as other files). We only have to update `src/index.md` which is very basic at this stage. We modify the title and add the reference to the `Docstring` items defined in `MyFirstDoc.jl`. `src/index.md` is updated as:
 
-```md
+```
 # This is MyFirstDoc.jl Documentation
 
 Documentation for MyFirstDoc.jl
