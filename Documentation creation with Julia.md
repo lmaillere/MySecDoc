@@ -77,7 +77,8 @@ Documentation for MyFirstDoc.jl
 
 ```@docs
 MyFirstDoc
-MyFirstDoc.greet()```
+MyFirstDoc.greet()
+\```
 ```
 
 - Finally we generate the documentation from the terminal in `MyFirstDoc/docs` directory:
