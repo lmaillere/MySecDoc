@@ -1,0 +1,4 @@
+name = "MySecDoc"
+uuid = "036d8cf0-9213-49bb-9232-b6589b656b6f"
+authors = ["Ludovic Mailleret <ludovic.mailleret@inrae.fr>"]
+version = "0.1.0"
