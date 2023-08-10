@@ -16,4 +16,4 @@ MySecDoc.greet()
 ```@index
 ```
 
-hey there
+hey there, I like it
